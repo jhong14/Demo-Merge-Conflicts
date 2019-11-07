@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Jonathan Hong
+A simple demo, by Jonathan Hong, for DMIT-2018
